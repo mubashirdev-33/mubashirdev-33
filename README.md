@@ -28,11 +28,11 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="center">
 
-<a href="mailto:khankhaznavik@gmail.com">
+<a href="mailto:mubashir.dev33@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/khankhaznavik-spec">
+<a href="https://github.com/mubashirdev-33">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -189,10 +189,10 @@ HTML • CSS • JavaScript • React
 <p align="center">
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=khankhaznavik-spec&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=mubashirdev-33&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=khankhaznavik-spec&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirdev-33&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -203,7 +203,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=khankhaznavik-spec&t
 <p align="center">
 
 <img width="50%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhaznavik-spec&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirdev-33&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -214,7 +214,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhaznavi
 <p align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=khankhaznavik-spec&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true"/>
+src="https://github-profile-trophy.vercel.app/?username=mubashirdev-33&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true"/>
 
 </p>
 
@@ -225,7 +225,7 @@ src="https://github-profile-trophy.vercel.app/?username=khankhaznavik-spec&theme
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=khankhaznavik-spec&theme=tokyo-night&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirdev-33&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -338,11 +338,11 @@ const mubashir = {
 
 <p align="center">
 
-<a href="mailto:khankhaznavik@gmail.com">
+<a href="mailto:mubashir.dev33@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/khankhaznavik-spec">
+<a href="https://github.com/mubashirdev-33">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -378,7 +378,7 @@ Happy Coding 🚀
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=khankhaznavik-spec&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mubashirdev-33&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -404,23 +404,23 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 <p align="center">
 
 <img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khankhaznavik-spec&theme=github_dark"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashirdev-33&theme=github_dark"/>
 
 <img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khankhaznavik-spec&theme=github_dark"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubashirdev-33&theme=github_dark"/>
 
 <img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khankhaznavik-spec&theme=github_dark"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubashirdev-33&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
 <img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khankhaznavik-spec&theme=github_dark"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubashirdev-33&theme=github_dark"/>
 
 <img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khankhaznavik-spec&theme=github_dark&utcOffset=5"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubashirdev-33&theme=github_dark&utcOffset=5"/>
 
 </p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
