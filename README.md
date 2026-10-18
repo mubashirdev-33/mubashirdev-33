@@ -1,428 +1,390 @@
-<!-- ====================== HERO SECTION ====================== -->
+
+<!-- ===================================================== -->
+<!--                    BLUE HEADER                       -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:312E81&height=220&section=header&text=Mubashir%20Khan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Developer&descSize=18&descAlignY=55" width="100%" alt="Mubashir Khan - Frontend Developer Header" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mubashir Khan</h1>
 
 <h3 align="center">
-💻 Frontend Developer | ⚛️ React Developer | 🎨 Graphic Designer
+  💻 Frontend Developer | ⚛️ React Developer | 🔷 TypeScript
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Graphic+Designer;Responsive+Web+Designer;Always+Learning+New+Things" />
+  Building modern, responsive, and user-friendly web applications.
 </p>
 
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;TypeScript+Learner;Responsive+Web+Developer;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://myportfolio-one-gamma-37.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mubashir.dev33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mubashirdev-33">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mubashirdev-33&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about building modern web applications.
-- ⚛️ React.js Developer with API Integration experience.
-- 🎨 Graphic Designer skilled in Photoshop, Illustrator, Canva & Figma.
-- 📱 Creating Responsive Websites for Desktop & Mobile.
-- 🌱 Currently improving React ecosystem and UI/UX.
-- 💼 Open to Freelance & Frontend opportunities.
+- 🚀 Frontend developer passionate about building modern web applications.
+- ⚛️ Developing interactive user interfaces with React.js.
+- 💛 Improving JavaScript and problem-solving skills.
+- 🔷 Learning TypeScript for type-safe development.
+- 📱 Creating responsive websites for desktop and mobile.
+- 🌐 Exploring REST API integration and dynamic web applications.
+- 🧩 Interested in reusable components and maintainable code.
+- 🌱 Always learning new frontend technologies and best practices.
+- 🤝 Open to collaboration, freelance projects, and frontend opportunities.
+
+My goal is to create web experiences that combine usability, performance, accessibility, and clean code.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:mubashir.dev33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mubashirdev-33">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mubashir-khan-a371683a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://m-dev-port-folio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="mailto:mubashir.dev33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/mubashirdev-33">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mubashir-khan-a371683a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://myportfolio-one-gamma-37.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- ⚛️ React.js
+- ⚛️ React.js and reusable components
 - 💛 JavaScript ES6+
+- 🔷 TypeScript fundamentals
 - 🎨 Tailwind CSS
 - 🟣 Bootstrap
 - 🌐 REST API Integration
 - 📱 Responsive UI Development
+- ⚡ Web performance and accessibility
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Frontend
+### Frontend Technologies
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" alt="HTML CSS JavaScript TypeScript React Tailwind Bootstrap Vite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite"/>
+### Programming Languages
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript and TypeScript" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git GitHub VS Code npm" />
 </p>
 
 ---
 
-## Programming Languages
+## 🚀 Featured Projects
 
-<p align="center">
+### 1. 🌐 Personal Portfolio
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+My personal portfolio showcasing my frontend development skills, projects, and development journey.
 
+**Highlights**
+- 📱 Responsive interface
+- ✨ Modern visual design
+- 📂 Project showcase
+- 💼 Professional profile
+
+<p>
+  <a href="https://myportfolio-one-gamma-37.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo" />
+  </a>
+</p>
+
+### 2. 🍔 Goodfood
+
+A food application built with React and the DummyJSON API.
+
+**Highlights**
+- 🔍 Product search
+- ❤️ Wishlist interface
+- 📱 Responsive design
+- 🌐 API integration
+
+**Tech Stack:** React · JavaScript · Tailwind CSS · DummyJSON API
+
+<p>
+  <a href="https://goodfood-ashy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Goodfood Live Demo" />
+  </a>
+  <a href="https://github.com/mubashirdev-33/Goodfood">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Goodfood Repository" />
+  </a>
+</p>
+
+### 3. ✍️ Blog Application
+
+A web application for presenting and browsing blog content.
+
+**Focus:** Frontend UI · Content Presentation · Web Development
+
+<p>
+  <a href="https://blog-application-zeta-murex.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog Application Live Demo" />
+  </a>
+</p>
+
+### 4. 🖼️ Gallery App
+
+A gallery application for viewing images through a dedicated visual interface.
+
+**Focus:** Image Gallery · UI Development · Responsive Design
+
+<p>
+  <a href="https://gallery-app-murex-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Gallery App Live Demo" />
+  </a>
+</p>
+
+### 5. 🛍️ E-Commerce Application
+
+A frontend project focused on an online shopping interface.
+
+**Focus:** E-Commerce UI · Product Presentation · Frontend Development
+
+<p>
+  <a href="https://e-commerce-application-seven-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Commerce Live Demo" />
+  </a>
 </p>
 
 ---
 
-## Design Tools
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,illustrator"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashirdev-33&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirdev-33&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## Tools
+## 💻 Most Used Languages
 
 <p align="center">
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🍔 Goodfood
-
-Modern Food Ordering UI built with React & DummyJSON API.
-
-### ✨ Features
-
-- 🔍 Live Search
-- ❤️ Wishlist UI
-- 📱 Responsive Design
-- 🌐 API Integration
-- ⚡ Fast Performance
-
-### 🛠 Tech Stack
-
-React • JavaScript • Tailwind CSS • DummyJSON API
-
-<br>
-
-<a href="https://goodfood-ashy.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/mubashirdev-33/Goodfood">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="220"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="220"/>
-
-</td>
-
-<td width="50%">
-
-## 🌐 Personal Portfolio
-
-Professional Portfolio Website to showcase projects & skills.
-
-### ✨ Features
-
-- Responsive Layout
-- Modern UI
-- Smooth Animations
-- Contact Form
-- Download CV
-- Project Showcase
-
-### 🛠 Stack
-
-HTML • CSS • JavaScript • React
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=mubashirdev-33&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirdev-33&theme=tokyonight&hide_border=true"/>
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirdev-33&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img width="50%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirdev-33&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mubashirdev-33&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true" alt="GitHub Profile Trophies" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=mubashirdev-33&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirdev-33&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirdev-33&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
----
-
-# 🎯 2026 Goals
+## 🎯 2026 Development Goals
 
 ```text
-✅ Master HTML5
-✅ Master CSS3
-✅ Master JavaScript (ES6+)
-✅ Master React.js
-🟨 Learn Next.js
-🟨 Improve UI/UX Skills
-🟨 Build Professional Frontend Projects
-🟨 Start Freelancing on Fiverr & Upwork
-🟨 Contribute to Open Source
-🟨 Become a Senior Frontend Developer
+✅ Build projects with HTML5 and CSS3
+✅ Practice JavaScript fundamentals
+✅ Develop React.js applications
+🟨 Strengthen TypeScript skills
+🟨 Improve React component architecture
+🟨 Explore Next.js
+🟨 Build accessible and responsive interfaces
+🟨 Improve testing and debugging skills
+🟨 Contribute to open-source projects
+🟨 Grow as a professional frontend developer
 ```
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 ```javascript
 const mubashir = {
-  role: "Frontend Developer & Graphic Designer",
+  role: "Frontend Developer",
+
+  technologies: [
+    "HTML5",
+    "CSS3",
+    "JavaScript ES6+",
+    "TypeScript",
+    "React.js",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
 
   currentlyLearning: [
     "Advanced React.js",
-    "Next.js",
+    "TypeScript",
     "REST API Integration",
-    "Modern UI/UX",
-    "Performance Optimization"
+    "React Router",
+    "Next.js",
+    "Web Performance"
   ],
 
   interests: [
     "Frontend Development",
-    "Graphic Designing",
+    "Responsive Web Design",
+    "Reusable UI Components",
     "Open Source",
-    "Freelancing",
-    "Content Creation"
+    "Problem Solving"
   ],
 
-  lifeGoal: "Build amazing user experiences and become a world-class Frontend Developer 🚀"
-}
+  goal: "Build reliable, accessible, and user-friendly web experiences"
+};
 ```
 
 ---
 
-# 📈 Development Journey
+## 📅 Development Journey
 
 ```text
-2024 ▓▓░░░░░░░ HTML & CSS
-
-2025 ▓▓▓▓░░░░░ JavaScript
-
-2026 ▓▓▓▓▓▓▓░░ React.js
-
-2027 ▓▓▓▓▓▓▓▓░ Advanced Frontend
-
-2028 ▓▓▓▓▓▓▓▓▓ Senior Frontend Developer
+HTML & CSS          → Building responsive web layouts
+JavaScript          → Learning programming and interactivity
+React.js            → Creating component-based applications
+TypeScript          → Learning type-safe JavaScript
+Next.js             → Exploring modern frontend development
 ```
 
 ---
 
-# 💼 Services
+## 💼 Frontend Services
 
-✅ Responsive Website
-
-✅ Landing Page
-
-✅ React Web Application
-
-✅ API Integration
-
-✅ Portfolio Website
-
-✅ Admin Dashboard UI
-
-✅ UI/UX Design
-
-✅ Graphic Designing
+- ✅ Responsive Website Development
+- ✅ Landing Page Development
+- ✅ React.js User Interfaces
+- ✅ Portfolio Website Development
+- ✅ REST API Integration
+- ✅ Reusable UI Components
+- ✅ Dashboard Interface Development
+- ✅ Website UI Improvements
 
 ---
 
-# 🎨 Design Skills
+## 🧠 My Development Principles
 
-- Adobe Photoshop
-- Adobe Illustrator
-- Canva
-- Figma
-- Social Media Design
-- Logo Design
-- Banner Design
-- Thumbnail Design
+- **User First:** Build intuitive and easy-to-use interfaces.
+- **Responsive Design:** Support different screen sizes.
+- **Clean Code:** Keep components readable and maintainable.
+- **Type Safety:** Use TypeScript appropriately as my skills develop.
+- **Accessibility:** Consider usability for a wider range of users.
+- **Continuous Learning:** Improve through practical projects and feedback.
 
 ---
 
-# 💬 Favorite Quote
+## 💬 Favorite Quote
 
-> **"Great design is not just how it looks, it's how it works."**
->
-> — Steve Jobs
+> "Great design is not just how it looks, it's how it works."
 
 ---
 
-# 📫 Contact Me
+## 📫 Contact Me
 
 <p align="center">
-
-<a href="mailto:mubashir.dev33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mubashirdev-33">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mubashir-khan-a371683a7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://m-dev-port-folio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="mailto:mubashir.dev33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mubashirdev-33">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mubashir-khan-a371683a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://myportfolio-one-gamma-37.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-# ❤️ Support My Work
+## ❤️ Support My Work
 
 <p align="center">
+  If you find my projects useful, consider giving the repositories a ⭐.
+</p>
 
-If you like my projects, don't forget to ⭐ my repositories.
-
+<p align="center">
+  Your support motivates me to keep learning and building.
 </p>
 
 ---
 
-<h2 align="center">
-Thanks for visiting my profile ❤️
-</h2>
+<h2 align="center">Thanks for Visiting My Profile ❤️</h2>
 
-<h3 align="center">
-Happy Coding 🚀
-</h3>
+<h3 align="center">Keep Learning. Keep Building. Happy Coding 🚀</h3>
 
-<p align="center">
+---
 
-<img src="https://komarev.com/ghpvc/?username=mubashirdev-33&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
-
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-# 📅 GitHub Summary
+## 📅 GitHub Summary
 
 <p align="center">
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashirdev-33&theme=github_dark"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubashirdev-33&theme=github_dark"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubashirdev-33&theme=github_dark"/>
-
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashirdev-33&theme=github_dark" alt="GitHub Profile Summary" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubashirdev-33&theme=github_dark" alt="Repositories by Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubashirdev-33&theme=github_dark" alt="Most Commit Languages" />
 </p>
 
 <p align="center">
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubashirdev-33&theme=github_dark"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubashirdev-33&theme=github_dark&utcOffset=5"/>
-
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubashirdev-33&theme=github_dark" alt="GitHub Summary Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubashirdev-33&theme=github_dark&utcOffset=5" alt="Productive Time" />
 </p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+</p>
+
+<!-- ===================================================== -->
+<!--                     FOOTER WAVE                       -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:312E81&height=120&section=footer" width="100%" alt="Blue Footer Wave" />
 </p>
