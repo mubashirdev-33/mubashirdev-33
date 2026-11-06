@@ -11,10 +11,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mubashirdev-33&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye)](https://github.com/mubashirdev-33)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/mubashirdev-33?label=Followers&style=for-the-badge&color=1DA1F2&logo=github)](https://github.com/mubashirdev-33?tab=followers)&nbsp;
-[![GitHub Repositories](https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/mubashirdev-33?tab=repositories)&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:)
+[![Profile Views](https://komarev.com/ghpvc/?username=mubashirdev-33&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye)](https://github.com/mubashirdev-33)
+[![GitHub Followers](https://img.shields.io/github/followers/mubashirdev-33?label=Followers&style=for-the-badge&color=1DA1F2&logo=github)](https://github.com/mubashirdev-33?tab=followers)
 
 </div>
 
@@ -22,7 +20,11 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align="center">
+
+<img align="right" alt="Anime Coding Character" width="360" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
+</div>
 
 - 👋 Hi, I'm **Mubashir**, a passionate Frontend Developer.
 - 💻 Focused on building modern and responsive websites.
@@ -42,33 +44,22 @@
 
 ### 🌐 Frontend Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
 
-### 🎨 CSS Frameworks & UI
+### ⚙️ Development Tools
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frontend Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Development Tools" />
 
 ### ✨ Frontend Skills
 
-![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![API Integration](https://img.shields.io/badge/API_Integration-6366F1?style=for-the-badge&logo=react&logoColor=white)
-![UI Development](https://img.shields.io/badge/UI_Development-EC4899?style=for-the-badge&logo=figma&logoColor=white)
-![Web Performance](https://img.shields.io/badge/Web_Performance-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)
+- Responsive Web Design
+- React Components
+- JavaScript DOM Manipulation
+- API Integration
+- Modern UI Development
+- Tailwind CSS Styling
+- Next.js Development
+- TypeScript Fundamentals
 
 </div>
 
@@ -81,27 +72,27 @@
 ### 🛒 E-Commerce Application
 
 <a href="https://e-commerce-application-seven-rho.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Commerce Live Demo"/>
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Commerce Live Demo"/>
 </a>
 
 Modern E-Commerce Application with a frontend-focused shopping experience.
 
-<br/>
+<br/><br/>
 
 ### 🖼️ Gallery Application
 
 <a href="https://gallery-app-murex-five.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Gallery Live Demo"/>
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Gallery Live Demo"/>
 </a>
 
 A modern image gallery application with a clean and responsive interface.
 
-<br/>
+<br/><br/>
 
 ### 📝 Blog Application
 
 <a href="https://blog-application-zeta-murex.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog Live Demo"/>
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog Live Demo"/>
 </a>
 
 A modern blog application focused on a clean reading and browsing experience.
@@ -137,7 +128,6 @@ A modern blog application focused on a clean reading and browsing experience.
 | 🎨 **UI Development** | Creating attractive, clean and user-friendly website interfaces |
 | 🖌️ **Figma to HTML Conversion** | Converting Figma designs into responsive frontend interfaces |
 | 💨 **Tailwind CSS Development** | Building modern layouts using Tailwind CSS utility classes |
-| 📱 **Bootstrap Development** | Creating responsive layouts using Bootstrap components and utilities |
 | ⚡ **JavaScript Functionality** | Interactive UI elements, DOM manipulation and frontend features |
 | 🔗 **API Integration** | Connecting frontend applications with external APIs |
 | 🛠️ **Website Fixes & Improvements** | Fixing UI bugs, responsive issues and improving existing frontend designs |
